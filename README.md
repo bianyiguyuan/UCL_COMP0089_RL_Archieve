@@ -6,7 +6,7 @@ It is organized into four parts, each corresponding to a different reinforcement
 
 ---
 
-## 📚 Contents
+## Contents
 
 | File | Description |
 |------|-------------|
@@ -18,7 +18,7 @@ It is organized into four parts, each corresponding to a different reinforcement
 
 ---
 
-## 🧪 Setup Instructions
+## Setup Instructions
 
 To run this project locally:
 
