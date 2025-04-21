@@ -1,0 +1,14 @@
+name: ucl-rl-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.26.2
+  - matplotlib=3.8.2
+  - pip
+  - jupyterlab=4.2.0
+  - pip:
+      - git+https://github.com/deepmind/bsuite.git
+      - jax=0.4.33
+      - jaxlib=0.4.33
